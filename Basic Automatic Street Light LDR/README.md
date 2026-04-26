@@ -85,7 +85,7 @@ void loop()
 
 ---
 
-## 📊 Serial Monitor Output
+## Serial Monitor Output
 
 You can observe real-time light values in the Serial Monitor:
 
@@ -99,7 +99,7 @@ Light Value: 600  → LED OFF
 ## 🔗 Tinkercad Simulation
 
 👉 Project link here:
-`#`
+`https://www.tinkercad.com/things/eirqojo8HSy-05-automatic-street-light-ldr`
 
 
 ---
