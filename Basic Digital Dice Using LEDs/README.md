@@ -79,7 +79,7 @@ Displays the generated dice number (for debugging/verification):
 ## Tinkercad Simulation
 
 👉 Add your project link here:
-`#`
+`https://www.tinkercad.com/things/7XHytMnpBCN-06-digital-dice-using-leds`
 
 
 ---
