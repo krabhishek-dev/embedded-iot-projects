@@ -74,9 +74,8 @@ It mimics real-world applications like **parking sensors**, **obstacle detection
 ## Tinkercad Simulation
 
 👉 Add your project link here:
-`https://www.tinkercad.com/things/your-ultrasonic-project-link`
+`https://www.tinkercad.com/things/91k549PuV9y-measure-the-distance-of-object-using-ultrasonic-sensor-`
 
-*(Replace with your actual Tinkercad link)*
 
 ---
 
