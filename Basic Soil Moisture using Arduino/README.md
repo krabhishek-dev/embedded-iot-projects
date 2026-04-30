@@ -74,9 +74,9 @@ It is a fundamental project for building **smart irrigation systems** and helps 
 ## Tinkercad Simulation
 
 👉 Project link here:
-`#`
+`https://www.tinkercad.com/things/8Rf5iT1Pxdm-measure-soil-moisture-using-arduino`
 
-*(Replace with your actual Tinkercad project link)*
+
 
 ---
 
