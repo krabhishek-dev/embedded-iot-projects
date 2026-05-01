@@ -1,6 +1,6 @@
-# 🏠 Home Automation System using Multiple Sensors (Arduino)
+# Home Automation System using Multiple Sensors (Arduino)
 
-## 📌 Project Overview
+## Project Overview
 
 This project is a **Smart Home Automation System** built using an **Arduino UNO** and multiple sensors like **LDR, Ultrasonic Sensor, PIR Motion Sensor, and Gas Sensor**.
 
@@ -116,10 +116,9 @@ Bulb OFF = 700 || NO Motion Detected || Gas Sensor Value = 200 || Door Closed!
 
 ## Tinkercad Simulation
 
-👉 Add your project link here:
-`#`
+👉 Project link here:
+`https://www.tinkercad.com/things/bayrrQa2vHd-home-automation-using-sensors-ldr-ultrasonic-pir-gas-etc`
 
-*(Replace with your actual Tinkercad link)*
 
 ---
 
