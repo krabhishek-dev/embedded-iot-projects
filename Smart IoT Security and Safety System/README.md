@@ -111,10 +111,9 @@ It integrates multiple components like a **keypad, LCD, servo motor, and gas sen
 
 ## Tinkercad Simulation
 
-👉 Add your project link here:
-`#`
+👉 Project link here:
+`https://www.tinkercad.com/things/jIGvKoVk0L6-smart-iot-security-and-safety-system`
 
-*(Replace with your actual Tinkercad link)*
 
 ---
 
