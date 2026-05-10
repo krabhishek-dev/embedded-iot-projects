@@ -162,7 +162,7 @@ home/ldr
 📁 Project files included in repository:
 
 * `code.ino`
-* `flows.json`
+* `nodered-flow.jpeg`
 * Dashboard configuration files
 
 ---
